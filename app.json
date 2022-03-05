@@ -2,7 +2,7 @@
   "name": "AIMusicX",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/LEGENDARY-OS/AIMusicX",
+  "repository": "https://github.com/smusicbot-OS/AIMusicX",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
